@@ -2,9 +2,9 @@
 
 这个模板提供了一个最小化配置，用于在Vite中运行React，包含热重载(HMR)和一些ESLint规则。
 
-Vite 支持许多流行的 JS 框架。[查看所有支持的框架](https://cn.vite.dev/guide/#scaffolding-your-first-vite-project "https://vitejs.dev/guide/#scaffolding-your-first-vite-project")。
+Vite 支持许多流行的 JS 框架。[查看所有支持的框架](https://zyx520.top/)。
 
-[Vite 配置参考](https://cn.vite.dev/config/)
+[Vite 配置参考](https://zyx520.top/)
 
 ## 本地开发
 
